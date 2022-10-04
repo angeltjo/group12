@@ -14,10 +14,16 @@
 <div id="barchart"></div>
 
 <script type="text/javascript">
-
-  var spec2 = "js/top5dangerous.json";
-  vegaEmbed('#barchart', spec2).then(function(result) {
+  
+  var specVis1 = "js/top5dangerous.json";
+  var specVis2 = "js/top5safest.json";
+  
+  vegaEmbed('#barchart', specVis1).then(function(result) {
   }).catch(console.error);
+  
+  vegaEmbed('#barchart', specVis2).then(function(result) {
+  }).catch(console.error);
+  
 </script>
 
 </body>
