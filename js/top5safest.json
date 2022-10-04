@@ -19,7 +19,7 @@
     "y": {
       "field": "Suburb",
       "type": "nominal",
-      "sort": {"field": "Total", "op": "average", "order": "descending"}
+      "sort": {"field": "Total", "op": "average", "order": "ascending"}
     },
     "tooltip": [
       {"field": "Suburb", "type": "nominal", "title": "Suburb"},
