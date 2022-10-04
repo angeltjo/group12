@@ -1,6 +1,13 @@
-#barchart {
+#barchart1 {
 	top:100px;
 	bottom: 100px; 
+	left: 100px;
+	right: 100px;
+}
+
+#barchart2 {
+	top:200px;
+	bottom: 200px; 
 	left: 100px;
 	right: 100px;
 }
