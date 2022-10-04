@@ -11,17 +11,19 @@
 </head>
 <body>
   
-<div id="barchart"></div>
+<div id="barchart1"></div>
+  
+<div id="barchart2"></div>
 
 <script type="text/javascript">
   
   var specVis1 = "js/top5dangerous.json";
   var specVis2 = "js/top5safest.json";
   
-  vegaEmbed('#barchart', specVis1).then(function(result) {
+  vegaEmbed('#barchart1', specVis1).then(function(result) {
   }).catch(console.error);
   
-  vegaEmbed('#barchart', specVis2).then(function(result) {
+  vegaEmbed('#barchart2', specVis2).then(function(result) {
   }).catch(console.error);
   
 </script>
