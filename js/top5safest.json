@@ -1,6 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Top 5 Safest Cities in Melbourne (2021)",
+  "title": {
+    "text": "Top 5 Safest Cities in Melbourne (2021)",
+    "fontSize": 20
+  },
   "width": 250,
   "height": 200,
   "data": {
