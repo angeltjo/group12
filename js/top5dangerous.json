@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Top 5 Most Dangerous Cities in Melbourne (2021)",
-  "width": 400,
-  "height": 200,
+  "width": 200,
+  "height": 100,
   "data": {
     "url": "https://raw.githubusercontent.com/angeltjo/group12/main/data/Suburb%20Crime%20Rates%202021.json"
   },
