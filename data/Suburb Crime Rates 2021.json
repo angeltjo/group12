@@ -1824,5 +1824,60 @@
    "JusticeProc_Off": 0,
    "Other": 0,
    "Total": 3
+ },
+ {
+   "Suburb": "Goroke",
+   "Postcode": 3412,
+   "Crimes_Against_Person": 5,
+   "Prop_Deception_Off": 3,
+   "Drug_Off": 0,
+   "PublicOrder_Security_Off": 0,
+   "JusticeProc_Off": 2,
+   "Other": 0,
+   "Total": 10
+ },
+ {
+   "Suburb": "Gunbower",
+   "Postcode": 3566,
+   "Crimes_Against_Person": 0,
+   "Prop_Deception_Off": 11,
+   "Drug_Off": 0,
+   "PublicOrder_Security_Off": 0,
+   "JusticeProc_Off": 2,
+   "Other": 0,
+   "Total": 13
+ },
+ {
+   "Suburb": "Lexton",
+   "Postcode": 3352,
+   "Crimes_Against_Person": 1,
+   "Prop_Deception_Off": 8,
+   "Drug_Off": 1,
+   "PublicOrder_Security_Off": 0,
+   "JusticeProc_Off": 0,
+   "Other": 0,
+   "Total": 10
+ },
+ {
+   "Suburb": "Linton",
+   "Postcode": 3360,
+   "Crimes_Against_Person": 4,
+   "Prop_Deception_Off": 25,
+   "Drug_Off": 1,
+   "PublicOrder_Security_Off": 1,
+   "JusticeProc_Off": 8,
+   "Other": 2,
+   "Total": 41
+ },
+ {
+   "Suburb": "Lismore",
+   "Postcode": 3324,
+   "Crimes_Against_Person": 7,
+   "Prop_Deception_Off": 20,
+   "Drug_Off": 0,
+   "PublicOrder_Security_Off": 0,
+   "JusticeProc_Off": 2,
+   "Other": 1,
+   "Total": 30
  }
 ]
